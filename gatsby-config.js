@@ -8,11 +8,11 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `Norman and OKC PPE Squad`,
-    description: `Information from the Norman volunteers creating and donating PPE.`,
+    description: `Join Norman and OKC volunteers in donating 3D Printed PPE.`,
     siteUrl: `https://loving-jones-549d13.netlify.com/`,
     home: {
-      title: `Hi! I'm Delog`,
-      description: `I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)`,
+      title: `Norman and OKC PPE Squad`,
+      description: `Volunteers are donating Personal Protective Equipment to local hospitals, firefighters, schools, and others in need.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify`,
