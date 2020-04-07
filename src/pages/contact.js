@@ -1,7 +1,7 @@
-import React from "react"
 import Helmet from "react-helmet"
-import { graphql } from 'gatsby'
 import Layout from "../components/layout"
+import React from "react"
+import { graphql } from 'gatsby'
 
 const ContactPage = ({
   data: {
@@ -16,8 +16,8 @@ const ContactPage = ({
       </Helmet>
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Get in Touch</h1>
-          <p>Let me help you kick start your next project &rarr;</p>
+          <h1 className="post-title">Contact the Volunteers</h1>
+          <p>Questions, supplies, and PPE requests will be responded to by a volunteer. &rarr;</p>
         </div>
         <div>
           <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
