@@ -64,8 +64,10 @@ a {
   text-transform: uppercase;
 }
 .hero-header {
-  padding: 0 0 64px;
-  max-width: 980px;
+   padding: 64px;
+   margin-bottom: 1.5em;
+  // padding: 0 0 64px;
+  // max-width: 980px;
 }
 .headline {
   font-size: 36px;
