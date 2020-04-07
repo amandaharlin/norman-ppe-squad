@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: amandaharlin/norman-ppe-squad
+  repo: amandaharlin/okc-norman-ppe-squad
 media_folder: static/assets
 public_folder: /assets
 collections:
