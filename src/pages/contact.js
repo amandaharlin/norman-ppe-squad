@@ -15,36 +15,58 @@ const ContactPage = ({
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+        <div
+          className="post-thumbnail"
+          style={{
+            backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`,
+            marginBottom: 0,
+          }}
+        >
           <h1 className="post-title">Contact the Volunteers</h1>
-          <p>Questions, supplies, and PPE requests will be responded to by a volunteer. &rarr;</p>
+          <p>
+            Questions, supplies, and PPE requests will be responded to by a
+            volunteer. &rarr;
+          </p>
         </div>
         <div>
-          <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
-            <div>
-              <label htmlFor="w3lName">Name</label>
-              <input type="text" name="w3lName" id="w3lName"/>
-            </div>
-            <div>
-              <label htmlFor="w3lSender">Email</label>
-              <input type="email" name="w3lSender" id="w3lSender"/>
-            </div>
-            <div>
-              <label htmlFor="w3lSubject">Subject</label>
-              <input type="text" name="w3lSubject" id="w3lSubject"/>
-            </div>
-            <div>
-              <label htmlFor="w3lMessage">Message</label>
-              <textarea name="w3lMessage" id="w3lMessage"></textarea>
-            </div>
-            <div style={{display: "flex", justifyContent: "flex-end"}}>
-              <input type="submit" className="button -primary" style={{marginRight: 0}} />
+          <form
+            name="contact"
+            method="post"
+            data-netlify="true"
+            data-netlify-honeypot="bot-field"
+            className="form-container"
+          >
+            <input type="hidden" name="bot-field" />
+            <input type="hidden" name="form-name" value="contact" />
+            <label>
+              Name
+              <input type="text" name="name" id="name" />
+            </label>
+            <label>
+              Email
+              <input type="email" name="email" id="email" />
+            </label>
+            <label>
+              Subject
+              <input type="text" name="subject" id="subject" />
+            </label>
+            <label>
+              Message
+              <textarea name="message" id="message" rows="5" />
+            </label>
+            
+            <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
+              <input
+                type="submit"
+                className="button -primary"
+                style={{ marginRight: 0 }}
+              />
             </div>
           </form>
         </div>
       </div>
     </Layout>
-  )
+  );
 }
 export default ContactPage
 export const pageQuery = graphql`
