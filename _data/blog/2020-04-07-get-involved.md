@@ -9,7 +9,7 @@ metaDescription: >-
   by joining the Facebook groups, purchasing supplies, giving a monetary gift,
   or by supporting the initiative by organizing volunteer efforts.
 ---
-This volunteer group was started to help spread useful information on what can be created and used at local health care centers. You can help by joining our efforts to 3D Print items or donating supplies to make the products.
+This volunteer group was started to help spread useful information on what can be created and used at local health care centers. You can help by joining our efforts to fulfill requests for PPE for medical or other high-risk professionals.
 
 
 
