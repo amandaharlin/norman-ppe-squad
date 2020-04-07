@@ -11,11 +11,9 @@ module.exports = {
     description: `Join Norman and OKC volunteers in donating 3D Printed PPE.`,
     siteUrl: `https://loving-jones-549d13.netlify.com/`,
     home: {
-      title: `We need your help to fight against PPE shortage`,
-      description: `Join us in donating Personal Protective Equipment to local hospitals, firefighters, schools, and others in need.`,
+      title: `Join the Fight Against PPE Shortage`,
+      description: `Create and Donate 3D-Printed Personal Protective Equipment for local hospitals, firefighters, schools, and others in need.`,
     },
-    /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
-    w3l_dom_key: `5e609f7a2d23fCF_Domain_verify`,
   },
   plugins: [
     {
