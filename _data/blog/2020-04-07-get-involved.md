@@ -3,7 +3,7 @@ template: BlogPost
 path: /get-involved
 date: 2020-04-07T04:25:47.884Z
 title: Get Involved
-thumbnail: /assets/untitled-design-11-.png
+thumbnail: /assets/untitled-design-14-.png
 ---
 This volunteer group was started to help spread useful information on what can be created and used at local health care centers. 
 
