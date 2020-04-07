@@ -1,5 +1,7 @@
+import { Link, StaticQuery, graphql } from "gatsby"
+
 import React from "react"
-import { StaticQuery, graphql, Link } from "gatsby"
+
 export default () => (
   <StaticQuery
     query={graphql`
@@ -20,7 +22,7 @@ export default () => (
         <div className="primary-content">
           <p>{data.site.siteMetadata.home.description}</p>
         </div>
-        <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
+        <Link to='/contact' className="button -primary">Contact Volunteers &rarr;</Link>
       </div>
     )}
   />

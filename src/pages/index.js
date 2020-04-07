@@ -1,9 +1,9 @@
-import React from "react"
 import Helmet from 'react-helmet';
-import { graphql } from 'gatsby'
+import HeroHeader from "../components/heroHeader"
 import Layout from "../components/layout"
 import PostLink from "../components/post-link"
-import HeroHeader from "../components/heroHeader"
+import React from "react"
+import { graphql } from 'gatsby'
 
 const IndexPage = ({
   data: {
@@ -24,7 +24,7 @@ const IndexPage = ({
         {!site.siteMetadata.w3l_dom_key ? null : <meta name="w3l-domain-verification" content={site.siteMetadata.w3l_dom_key} />}
       </Helmet>
       <HeroHeader/>
-      <h2>Blog Posts &darr;</h2>
+      <h2>Resources &darr;</h2>
       <div className="grids">
         {Posts}
       </div>
