@@ -7,15 +7,15 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Delog`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://delog-w3layouts.netlify.com/`,
+    title: `Norman and OKC PPE Squad`,
+    description: `Information from the Norman volunteers creating and donating PPE.`,
+    siteUrl: `https://loving-jones-549d13.netlify.com/`,
     home: {
       title: `Hi! I'm Delog`,
       description: `I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
-    w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
+    w3l_dom_key: `5e609f7a2d23fCF_Domain_verify`,
   },
   plugins: [
     {
@@ -28,31 +28,33 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [{
-          resolve: `gatsby-remark-prismjs`,
-          options: {
-            classPrefix: "language-",
-            inlineCodeMarker: null,
-            aliases: {},
-            showLineNumbers: false,
-            noInlineHighlight: false,
+        plugins: [
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              classPrefix: 'language-',
+              inlineCodeMarker: null,
+              aliases: {},
+              showLineNumbers: false,
+              noInlineHighlight: false,
+            },
           },
-        },
-        {
-          resolve: 'gatsby-remark-emojis',
-        }],
+          {
+            resolve: 'gatsby-remark-emojis',
+          },
+        ],
       },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // The property ID; the tracking code won't be generated without it
-        trackingId: "UA-30027142-1",
+        trackingId: 'UA-30027142-1',
         head: true,
-      }
+      },
     },
-    `gatsby-plugin-sass`, 
+    `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
   ],
-}
+};
