@@ -4,6 +4,10 @@ path: /get-involved
 date: 2020-04-07T04:25:47.884Z
 title: Get Involved
 thumbnail: /assets/untitled-design-14-.png
+metaDescription: >-
+  Local community members and local businesses can support our volunteer efforts
+  by joining the Facebook groups, purchasing supplies, giving a monetary gift,
+  or by supporting the initiative by organizing volunteer efforts.
 ---
 This volunteer group was started to help spread useful information on what can be created and used at local health care centers. 
 
@@ -25,8 +29,7 @@ This group is open for anyone who wants to discuss designs, improvement, resourc
 
 - - -
 
-# \
-Purchase or Donate Printing Supplies
+# Purchase or Donate Printing Supplies
 
 We are in need of:
 
@@ -35,7 +38,6 @@ We are in need of:
 
 - - -
 
-# \
-Support Volunteer Efforts with a monetary gift
+# Support Volunteer Efforts with a monetary gift
 
 Contact Michael Graff or Blake Kirkpatrick for more information if you'd like to make a gift to the volunteers. The OKC/Norman PPE Squad is a group of volunteers coordinating efforts together across the OKC metro area. The OKC/Norman PPE Squad is not a non-profit, NGO, or business entitity. Consult your tax professional if you have any questions.
