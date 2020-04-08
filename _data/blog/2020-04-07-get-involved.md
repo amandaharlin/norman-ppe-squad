@@ -11,8 +11,6 @@ metaDescription: >-
 ---
 This volunteer group was started to help spread useful information on what can be created and used at local health care centers. You can help by joining our efforts to fulfill requests for PPE for medical or other high-risk professionals.
 
-
-
 ## 1) Join our Facebook Groups
 
 There are two groups, one for the production side, and one for the design side.
@@ -27,9 +25,7 @@ This group is open for anyone who wants to discuss designs, improvement, resourc
 
 
 
-## 2) Sign up to fulfill requests and/or deliver PPE items 
-
-
+## 2) Sign up to fulfill requests and/or deliver PPE items
 
 ### Current designs
 
@@ -40,8 +36,6 @@ Don’t self-start and modify anything special, because this delays delivery and
 ### Current requests
 
 Current production requests and a list of who has committed to making them is available on [Production Requests](https://docs.google.com/spreadsheets/d/136LL4FxBY360ruetwlhCqy5z1URTNFllhwNeuIRCv9A/edit?fbclid=IwAR05XKMuMhmqDRj7v7Y_ZHW4cP1e03g09DPyYqyzCLhRN3x14cjBdS3zr8k#gid=378622234). There are tabs for each request.
-
-
 
 #### Prusa RC-3 Modified Design
 
@@ -61,15 +55,11 @@ Current production requests and a list of who has committed to making them is av
   * Supports: no.
   * Perimeter: 3 recommended
 
-
-
 ### Handling Parts
 
 * If using PLA, baking to harden is not needed.
 * Items should be placed in plastic bags if available to keep dust and dirt off them. A bag can contain more than one shield set, but the lower and upper parts should be together so a bag is a complete set of parts needed for assembly.
 * Note: while we should minimize unprotected handling of the parts, the requirement is that all parts will go through a sterilization process at the destination site, and it is their responsibility to ensure this happens.
-
-
 
 ### Collection and Delivery Plan
 
@@ -86,6 +76,8 @@ We are in need of:
 * PETG (preferred) or PLA, 1.75 mm, no “add-ins” like glitter or similar. Unopened packages preferred.\
 * 0.5 mm to 1.0mm PETG clear plastic sheets at least 16x10 inches. Other types can be used, including transparency film, but for critical care in infectious areas, 16x10 inches is the required size.
 
+
+
 ## 4) Support Volunteer Efforts with a monetary gift
 
-Contact Michael Graff or Blake Kirkpatrick for more information if you'd like to make a gift to the volunteers. The OKC/Norman PPE Squad is a group of volunteers coordinating efforts together across the OKC metro area. The OKC/Norman PPE Squad is not a non-profit, NGO, or business entitity. Consult your tax professional if you have any questions.
+Contact Michael Graff or Blake Kirkpatrick for more information if you'd like to contribute a gift so the volunteers can purchase supplies. The OKC/Norman PPE Squad is a group of volunteers coordinating efforts across the OKC metro area. The OKC/Norman PPE Squad is not a non-profit, NGO, or business entity. Consult your tax professional if you have any questions.
