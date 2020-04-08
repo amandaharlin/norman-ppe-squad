@@ -6,8 +6,8 @@ title: Get Involved
 thumbnail: /assets/makers-2.jpg
 metaDescription: >-
   Local community members and local businesses can support our volunteer efforts
-  by joining the Facebook groups, purchasing supplies, giving a monetary gift,
-  or by supporting the initiative by organizing volunteer efforts.
+  by joining the Facebook groups, purchasing supplies, or by supporting the
+  initiative by organizing volunteer efforts.
 ---
 This volunteer group was started to help spread useful information on what can be created and used at local health care centers. You can help by joining our efforts to fulfill requests for PPE for medical or other high-risk professionals.
 
@@ -75,9 +75,3 @@ We are in need of:
 
 * PETG (preferred) or PLA, 1.75 mm, no “add-ins” like glitter or similar. Unopened packages preferred.
 * 0.5 mm to 1.0mm PETG clear plastic sheets at least 16x10 inches. Other types can be used, including transparency film, but for critical care in infectious areas, 16x10 inches is the required size.
-
-
-
-## 4) Support Volunteer Efforts with a monetary gift
-
-Contact Michael Graff or Blake Kirkpatrick for more information if you'd like to contribute a gift so the volunteers can purchase supplies. The OKC/Norman PPE Squad is a group of volunteers coordinating efforts across the OKC metro area. The OKC/Norman PPE Squad is not a non-profit, NGO, or business entity. Consult your tax professional if you have any questions.
