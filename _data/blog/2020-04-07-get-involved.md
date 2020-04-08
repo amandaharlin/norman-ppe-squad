@@ -17,7 +17,7 @@ There are two groups, one for the production side, and one for the design side.
 
 ### Production focused group [(Norman / OKC PPE Squad)](https://www.facebook.com/groups/1304999819692768/)
 
-This group is only for those making or consuming items, after designs are approved by health care providers for use in their areas. It is focused on production, logistics, and organization.
+This group is only for local makers actively producing PPE or local organizations requesting PPE. It is focused on production, logistics, and organization.
 
 ### Design and discussion [(Norman / OKC PPE Thinkers and Talkers)](https://www.facebook.com/groups/217912735946956/)
 
