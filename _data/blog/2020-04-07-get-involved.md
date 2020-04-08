@@ -73,7 +73,7 @@ Current production requests and a list of who has committed to making them is av
 
 We are in need of:
 
-* PETG (preferred) or PLA, 1.75 mm, no “add-ins” like glitter or similar. Unopened packages preferred.\
+* PETG (preferred) or PLA, 1.75 mm, no “add-ins” like glitter or similar. Unopened packages preferred.
 * 0.5 mm to 1.0mm PETG clear plastic sheets at least 16x10 inches. Other types can be used, including transparency film, but for critical care in infectious areas, 16x10 inches is the required size.
 
 
