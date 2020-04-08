@@ -11,6 +11,11 @@ metaDescription: >-
 ---
 This volunteer group was started to help spread useful information on what can be created and used at local health care centers. You can help by joining our efforts to fulfill requests for PPE for medical or other high-risk professionals.
 
+## 0) Learn about the grass-roots initiative.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p5sKEm3jx48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## 1) Join our Facebook Groups
 
 There are two groups, one for the production side, and one for the design side.
