@@ -3,7 +3,7 @@ template: BlogPost
 path: /get-involved
 date: 2020-04-07T04:25:47.884Z
 title: Get Involved
-thumbnail: /assets/untitled-design-14-.png
+thumbnail: /assets/makers-2.jpg
 metaDescription: >-
   Local community members and local businesses can support our volunteer efforts
   by joining the Facebook groups, purchasing supplies, giving a monetary gift,
