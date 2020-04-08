@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Norman and OKC Personal Protective Equipment Squad`,
+    title: `OKC and Norman Personal Protective Equipment Squad`,
     description: `Join Norman and OKC volunteers in donating 3D Printed PPE.`,
     siteUrl: `https://loving-jones-549d13.netlify.com/`,
     home: {
